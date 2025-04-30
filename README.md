@@ -13,7 +13,7 @@
 </p>
 
  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamlashkari" alt="prathamlashkari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-aak" alt="atharvakalbande" /></a> </p>
 
 <h4 align="center">- 🔭 I’m currently working on Major Projects </h4>
   
