@@ -19,7 +19,7 @@
   
 <h4 align="center">- 🌱 I’m currently working on AI projects and expanding my skills in AI </h4>
 
-<h4 align="center">- 📫 How to reach me atharvakalbande4@gmail.com </h4>
+<h4 align="center">- 📫 How to reach me atharvakalbande5@gmail.com </h4>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
