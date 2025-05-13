@@ -19,7 +19,7 @@
   
 <h4 align="center">- 🌱 I’m currently working on AI projects and expanding my skills in AI </h4>
 
-<h4 align="center">- 📫 How to reach me atharvakalbande4@gmail.com </h4>
+<h4 align="center">- 📫 How to reach me atharvakalbande5@gmail.com </h4>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
@@ -66,5 +66,5 @@
 <!-- GitHub Streak Stats -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-aak&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true&timestamp=202504301139" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-aak&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true&timestamp=202504301139" alt="GITHUB STATS" />
 </p>
