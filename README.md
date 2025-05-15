@@ -19,27 +19,27 @@
   
 <h4 align="center">- 🌱 I’m currently working on AI projects and expanding my skills in AI </h4>
 
-<h4 align="center">- 📫 How to reach me atharvakalbande5@gmail.com </h4>
+<h4 align="center">- 📫 How to reach me: atharvakalbande5@gmail.com </h4>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-kalbande38/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvakalbande" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_atharva.kalbande_/?hl=en" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvakalbande" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.codechef.com/users/pratham_110" target="blank">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="https://www.codechef.com/users/atharvaak" target="blank">
+    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="atharvakalbande" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank">
     <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://leetcode.com/u/atharva_kalbande/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvakalbande" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/atharva_kalbande/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
+  <a href="https://codolio.com/profile/atharva_kalbande" target="blank">
+    <img align="center" src="https://media.licdn.com/dms/image/v2/D560BAQEOgoIfP8g_xw/company-logo_200_200/company-logo_200_200/0/1719847023488?e=2147483647&v=beta&t=dWu9x83FT-6r6dfseLKaLBF4mHSQBZITThD8OM99ciI" alt="atharvakalbande" height="45" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
