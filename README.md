@@ -56,12 +56,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharva-aak&theme=2077&v=2" height="180em" />
 </p>
 
-<!-- Contribution Overview Cards -->
+<!-- Contribution Overview Cards --
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharva-aak&theme=2077&v=2" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharva-aak&theme=2077&v=2" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharva-aak&theme=2077&v=2" height="180em" />
-</p>
+</p> 
 
 <!-- GitHub Streak Stats -->
 
