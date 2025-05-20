@@ -30,17 +30,19 @@
   <a href="https://www.instagram.com/_atharva.kalbande_/?hl=en" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvakalbande" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/atharvaak" target="blank">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="atharvakalbande" height="50" width="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://codolio.com/profile/atharva_kalbande" target="blank">
+    <img align="center" src="https://media.licdn.com/dms/image/v2/D560BAQEOgoIfP8g_xw/company-logo_200_200/company-logo_200_200/0/1719847023488?e=2147483647&v=beta&t=dWu9x83FT-6r6dfseLKaLBF4mHSQBZITThD8OM99ciI" alt="atharvakalbande" height="45" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank">
     <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://leetcode.com/u/atharva_kalbande/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvakalbande" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codolio.com/profile/atharva_kalbande" target="blank">
-    <img align="center" src="https://media.licdn.com/dms/image/v2/D560BAQEOgoIfP8g_xw/company-logo_200_200/company-logo_200_200/0/1719847023488?e=2147483647&v=beta&t=dWu9x83FT-6r6dfseLKaLBF4mHSQBZITThD8OM99ciI" alt="atharvakalbande" height="45" width="40" />
+
+  <a href="https://www.codechef.com/users/atharvaak" target="blank">
+    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="atharvakalbande" height="50" width="50" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
