@@ -15,11 +15,12 @@
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva-aak" alt="atharvakalbande" /></a> </p>
 
+<!-- 
 <h4 align="center">- 🔭 I’m currently working on Major Projects </h4>
   
 <h4 align="center">- 🌱 I’m currently working on AI projects and expanding my skills in AI </h4>
 
-<h4 align="center">- 📫 How to reach me: atharvakalbande5@gmail.com </h4>
+<h4 align="center">- 📫 How to reach me: atharvakalbande5@gmail.com </h4> -->
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
@@ -50,7 +51,7 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,express" title="Spring-Boot, Node.js"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a></div> |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,ts" title="mongodb, MySQL, Scss"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, React"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" title="git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/></a></div> | 
  
-<!-- Language Cards -->
+<!-- Language Cards --
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharva-aak&theme=2077&v=2" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharva-aak&theme=2077&v=2" height="180em" />
