@@ -22,7 +22,7 @@
 
 <h4 align="center">- 📫 How to reach me: atharvakalbande5@gmail.com </h4> -->
 
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">Connect with me: </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-kalbande38/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvakalbande" height="30" width="40" />
