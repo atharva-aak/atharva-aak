@@ -1,12 +1,13 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Atharva+Kalbande" alt="Typing SVG" /></a>
 </a></p><h3 align="center">💻 CSE Student | Cyber Security Enthusiast</h3>
+<br>
 <!-- <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Backend+Developer;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
 </h2> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharva-aak&label=Profile%20views&color=brightgreen&style=flat" alt="atharva-aak" />
