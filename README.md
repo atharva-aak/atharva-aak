@@ -5,7 +5,7 @@
 <!-- <h2 align="center">                                                                                                                                               
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Backend+Developer;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
 </h2> -->
-<!-- <p align="center"> 
+<!-- <p align="center">  
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
 </p> -->
 
