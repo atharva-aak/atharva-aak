@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
 </p> -->
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=atharva-aak&label=Profile%20views&color=brightgreen&style=flat" alt="atharva-aak" />
 </p>
 
