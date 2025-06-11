@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Atharva+Kalbande" alt="Typing SVG" /></a>
 </a></p><h3 align="center">💻 CSE Student | Cyber Security Enthusiast</h3>
 <br>
-<!-- <h2 align="center">                                                                           
+<!-- <h2 align="center">                                                                            
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Backend+Developer;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
 </h2> -->
 <!-- <p align="center"> 
